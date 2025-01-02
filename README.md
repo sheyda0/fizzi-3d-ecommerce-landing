@@ -1,4 +1,4 @@
-echo "# Fizzi - 3D E-commerce Landing Page
+# Fizzi - 3D E-commerce Landing Page
 
 Fizzi is a modern 3D e-commerce landing page built with Three.js, React Three Fiber, and GSAP, combined with Next.js for seamless performance and interactive user experiences. This project showcases cutting-edge web technologies and a fully responsive design.
 
