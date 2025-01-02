@@ -19,13 +19,13 @@ Check out the live demo: [Fizzi Live Demo](https://fizzi-3d-ecommerce-landing.ve
 - Fully responsive and optimized for all devices.
 - Styled with **TailwindCSS**.
 - Easy state management using **Zustand**.
-- Performance monitoring with \`r3f-perf\`.
+- Performance monitoring with **r3f-perf**.
 
 ---
 
 ## Getting Started
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [\`create-next-app\`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 1. **Clone the Repository**:
 
