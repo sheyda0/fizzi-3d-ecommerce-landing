@@ -27,23 +27,27 @@ Check out the live demo: [Fizzi Live Demo](https://fizzi-3d-ecommerce-landing.ve
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [\`create-next-app\`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-### First, run the development server:
+1. **Clone the Repository**:
 
-\`\`\`bash
-npm run dev
+   ```bash
+   git clone https://github.com/sheyda0/fizzi-3d-ecommerce-landing
+   cd fizzi-3d-ecommerce-landing
 
-# or
+   ```
 
-yarn dev
+2. **Install Dependencies**:
 
-# or
+   ```bash
+   npm install
 
-pnpm dev
+   ```
 
-# or
+3. **Run the Development Server**:
 
-bun dev
-\`\`\`
+   ```bash
+   npm run dev
+
+   ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
