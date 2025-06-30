@@ -4,14 +4,15 @@ import Image from "next/image";
 import Bounded from "../Bounded";
 import Button from "../Button";
 import TextSplitter from "../TextSplitter";
-import gsap from "gsap";
-import { useGSAP } from "@gsap/react";
-import { ScrollTrigger } from "gsap/ScrollTrigger";
+
 import { View } from "@react-three/drei";
 import { Bubbles } from "../Bubbles";
 import { useStore } from "@/hooks/useStore";
 import { useMediaQuery } from "@/hooks/useMediaQuery";
 import HeroScene from "./HeroScene";
+import gsap from "gsap";
+import { useGSAP } from "@gsap/react";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 gsap.registerPlugin(useGSAP, ScrollTrigger);
 

@@ -2,7 +2,6 @@
 
 import { Canvas } from "@react-three/fiber";
 import { Loader, View } from "@react-three/drei";
-import { Perf } from "r3f-perf";
 import { Suspense } from "react";
 
 const ViewCanvas = () => {

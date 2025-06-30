@@ -10,7 +10,7 @@ import { useStore } from "@/hooks/useStore";
 gsap.registerPlugin(useGSAP, ScrollTrigger);
 
 const HeroScene = () => {
-  const can1Ref = useRef();
+  const can1Ref = useRef();//hi
   const can2Ref = useRef();
   const can3Ref = useRef();
   const can4Ref = useRef();
